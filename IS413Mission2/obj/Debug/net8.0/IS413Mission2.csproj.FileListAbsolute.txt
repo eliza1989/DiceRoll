@@ -1,0 +1,14 @@
+\\Mac\iCloud\C# Projects\IS413Mission2\obj\Debug\net8.0\IS413Mission2.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\iCloud\C# Projects\IS413Mission2\obj\Debug\net8.0\IS413Mission2.AssemblyInfoInputs.cache
+\\Mac\iCloud\C# Projects\IS413Mission2\obj\Debug\net8.0\IS413Mission2.AssemblyInfo.cs
+\\Mac\iCloud\C# Projects\IS413Mission2\obj\Debug\net8.0\IS413Mission2.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\C# Projects\IS413Mission2\bin\Debug\net8.0\IS413Mission2.exe
+\\Mac\iCloud\C# Projects\IS413Mission2\bin\Debug\net8.0\IS413Mission2.deps.json
+\\Mac\iCloud\C# Projects\IS413Mission2\bin\Debug\net8.0\IS413Mission2.runtimeconfig.json
+\\Mac\iCloud\C# Projects\IS413Mission2\bin\Debug\net8.0\IS413Mission2.dll
+\\Mac\iCloud\C# Projects\IS413Mission2\bin\Debug\net8.0\IS413Mission2.pdb
+\\Mac\iCloud\C# Projects\IS413Mission2\obj\Debug\net8.0\IS413Mission2.dll
+\\Mac\iCloud\C# Projects\IS413Mission2\obj\Debug\net8.0\refint\IS413Mission2.dll
+\\Mac\iCloud\C# Projects\IS413Mission2\obj\Debug\net8.0\IS413Mission2.pdb
+\\Mac\iCloud\C# Projects\IS413Mission2\obj\Debug\net8.0\IS413Mission2.genruntimeconfig.cache
+\\Mac\iCloud\C# Projects\IS413Mission2\obj\Debug\net8.0\ref\IS413Mission2.dll
